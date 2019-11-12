@@ -17,3 +17,19 @@
 * https://blogs.sap.com/2018/05/24/digital-transformation-for-smbs-the-intelligent-enterprise/
 * https://blogs.sap.com/2018/09/04/digital-transformation-for-smbs-design-thinking-methodology-and-build.me/
 
+# Session #2: SMB Digital Cores & Loosely Coupled Architecture
+
+## SAP Business One Extensibility eLearning
+* Free eLearning: https://blogs.sap.com/2017/10/19/sap-business-one-on-hana-development-e-learning-is-live/
+
+## Loosely Coupled Solutions for SMBs Topics
+* Main blog: https://blogs.sap.com/2018/06/05/loosely-coupled-solutions-for-smbs-topics/
+* BeaconsOne - A SmartShop with SAP Business One - https://blogs.sap.com/2017/04/13/beaconsone-a-smart-shop-with-iot-b1-and-sap-cloud-platform/ 
+* ERP agnostic example, SMB Marketplace  - https://blogs.sap.com/2018/05/24/digital-transformation-for-smbs-the-intelligent-enterprise/ 
+
+## openSAP free online trainings 
+* https://open.sap.com   - search for “SAP Business ByDesign” trainings or any other topic you will like to learn!
+
+## SAP Business ByDesign
+* How to Create an OData Service - https://www.youtube.com/watch?v=z6mF_1hFths
+
