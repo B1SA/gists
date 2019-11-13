@@ -23,6 +23,7 @@
 * Free eLearning: https://blogs.sap.com/2017/10/19/sap-business-one-on-hana-development-e-learning-is-live/
 
 ## Loosely Coupled Solutions for SMBs Topics
+* Loosely Coupled concept: https://en.wikipedia.org/wiki/Coupling_(computer_programming)
 * Main blog: https://blogs.sap.com/2018/06/05/loosely-coupled-solutions-for-smbs-topics/
 * BeaconsOne - A SmartShop with SAP Business One - https://blogs.sap.com/2017/04/13/beaconsone-a-smart-shop-with-iot-b1-and-sap-cloud-platform/ 
 * ERP agnostic example, SMB Marketplace  - https://blogs.sap.com/2018/05/24/digital-transformation-for-smbs-the-intelligent-enterprise/ 
