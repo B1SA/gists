@@ -40,7 +40,7 @@
 * https://account.hanatrial.ondemand.com
 
 ## SAP API Hub
-* api.sap.com
+* https://api.sap.com/
 
 ## Hands on exercise
 * Exercise instructions: https://github.com/B1SA/B1_SCP_HandsOn/blob/master/HandsOn_SCP_Instructions.pdf
