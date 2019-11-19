@@ -34,3 +34,16 @@
 ## SAP Business ByDesign
 * How to Create an OData Service - https://www.youtube.com/watch?v=z6mF_1hFths
 
+# Session #3: SAP Cloud Platform Overview
+
+## SAP Cloud Platform Trial account
+* https://account.hanatrial.ondemand.com
+
+## SAP API Hub
+* api.sap.com
+
+## Hands on exercise
+* Exercise instructions: https://github.com/B1SA/B1_SCP_HandsOn/blob/master/HandsOn_SCP_Instructions.pdf
+* Full source code and extra materials: https://github.com/B1SA/B1_SCP_HandsOn
+
+
