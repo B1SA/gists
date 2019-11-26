@@ -47,6 +47,9 @@
 
 ## Session #4: Cloud Native Architectures - Part 1
 
+## Hackathon @ SMB Innovation Summit 2020
+* http://bit.ly/hackathon2020
+
 ### Getting Started with Cloud Foundry CLI
 * https://github.com/cloudfoundry/cli#getting-started
 
@@ -56,3 +59,10 @@
 ## Hands on exercise
 * Exercise instructions: https://github.com/Ralphive/cf-12-factor/blob/master/HandsOn_cf12factors_guide.pdf
 * Full source code and extra materials: https://github.com/Ralphive/cf-12-factor
+
+## Further Reading
+* The 12 Factor App - https://12factor.net/
+* The 12 Factor App in Plain English - https://will.koffel.org/post/2014/12-factor-apps-in-plain-english/
+ 
+
+
