@@ -46,4 +46,14 @@
 * Exercise instructions: https://github.com/B1SA/B1_SCP_HandsOn/blob/master/HandsOn_SCP_Instructions.pdf
 * Full source code and extra materials: https://github.com/B1SA/B1_SCP_HandsOn
 
+# Session #4: Cloud Native Architectures - Part 1
 
+## Getting Started with Cloud Foundry CLI
+* https://github.com/cloudfoundry/cli#getting-started
+
+## Getting Started with MS Azure
+* https://azure.microsoft.com/en-gb/get-started/
+
+## Hands on exercise
+* Exercise instructions: https://github.com/Ralphive/cf-12-factor/blob/master/HandsOn_cf12factors_guide.pdf
+* Full source code and extra materials: https://github.com/Ralphive/cf-12-factor
