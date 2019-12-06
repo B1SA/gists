@@ -45,7 +45,7 @@
 * Exercise instructions: https://github.com/B1SA/B1_SCP_HandsOn/blob/master/HandsOn_SCP_Instructions.pdf
 * Full source code and extra materials: https://github.com/B1SA/B1_SCP_HandsOn
 
-## Session #4: Cloud Native Architectures - Part 1
+## Session #4/5: Cloud Native Architectures 
 
 ## Hackathon @ SMB Innovation Summit 2020
 * http://bit.ly/hackathon2020
@@ -64,7 +64,7 @@
 * The 12 Factor App - https://12factor.net/
 * The 12 Factor App in Plain English - https://will.koffel.org/post/2014/12-factor-apps-in-plain-english/
  
-## Session #5: SAP Cloud Platform Integration
+## Session #6: SAP Cloud Platform Integration
 
 ### How to Set Up Your Trial SAP Cloud Platform Integration Tenant 
 * https://developers.sap.com/tutorials/cp-starter-integration-cpi-onboard-subscribe.html
