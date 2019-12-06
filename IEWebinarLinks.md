@@ -76,4 +76,6 @@
 
 ### eLearning
 * SAP Cloud Platform Youtube academy - https://www.youtube.com/playlist?list=PLkzo92owKnVwUoypV34RbxBZihYqi6eE3
+* Simplify Integration with SAP Cloud Platform Integration Suite - https://open.sap.com/courses/cp9/resume 
+* Integration – The Key to the Intelligent Enterprise (SAP internal) - https://open.sap.com/courses/int1i/resume
 
