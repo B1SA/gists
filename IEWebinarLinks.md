@@ -86,3 +86,6 @@ Want to know about the latest and greatest product updates and features enhancem
 * Simplify Integration with SAP Cloud Platform Integration Suite - https://open.sap.com/courses/cp9/resume 
 * Integration – The Key to the Intelligent Enterprise - https://open.sap.com/courses/int1/resume
 
+### Hands on exercise
+* Exercise instructions:https://github.com/TrinidadMG/CPIBuildBlock/blob/master/HandsOn_CPI_ByD_B1.pdf
+
