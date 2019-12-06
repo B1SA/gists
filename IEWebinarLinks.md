@@ -64,5 +64,16 @@
 * The 12 Factor App - https://12factor.net/
 * The 12 Factor App in Plain English - https://will.koffel.org/post/2014/12-factor-apps-in-plain-english/
  
+## Session #5: SAP Cloud Platform Integration
 
+### How to Set Up Your Trial SAP Cloud Platform Integration Tenant 
+* https://developers.sap.com/tutorials/cp-starter-integration-cpi-onboard-subscribe.html
+
+### Documentation
+* Getting started with SAP Cloud Platform Integration - https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e7b1eaa2246641b3a6188233cf219ab8.html 
+* Key capabilities and scenarios of SAP Cloud Platform Integration Suite: https://cloudplatform.sap.com/integration.html
+* Pre-packaged integration content and APIs on SAP API Business Hub - https://api.sap.com/
+
+### eLearning
+* SAP Cloud Platform Youtube academy - https://www.youtube.com/playlist?list=PLkzo92owKnVwUoypV34RbxBZihYqi6eE3
 
