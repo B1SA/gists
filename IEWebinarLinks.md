@@ -56,11 +56,11 @@
 ### Getting Started with MS Azure
 * https://azure.microsoft.com/en-gb/get-started/
 
-## Hands on exercise
+### Hands on exercise
 * Exercise instructions: https://github.com/Ralphive/cf-12-factor/blob/master/HandsOn_cf12factors_guide.pdf
 * Full source code and extra materials: https://github.com/Ralphive/cf-12-factor
 
-## Further Reading
+### Further Reading
 * The 12 Factor App - https://12factor.net/
 * The 12 Factor App in Plain English - https://will.koffel.org/post/2014/12-factor-apps-in-plain-english/
  
@@ -70,12 +70,19 @@
 * https://developers.sap.com/tutorials/cp-starter-integration-cpi-onboard-subscribe.html
 
 ### Documentation
-* Getting started with SAP Cloud Platform Integration - https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e7b1eaa2246641b3a6188233cf219ab8.html 
-* Key capabilities and scenarios of SAP Cloud Platform Integration Suite: https://cloudplatform.sap.com/integration.html
+* SAP Cloud Platform Integration Help Portal - https://help.sap.com/viewer/product/CLOUD_INTEGRATION/Cloud/en-US
+* Get Started with SAP Cloud Platform Integration - https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e7b1eaa2246641b3a6188233cf219ab8.html 
+* Get Started with Integration Flow Development - https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e5724cd84b854719973afe0356ea128b.html
+* Key capabilities and scenarios of SAP Cloud Platform Integration Suite: https://cloudplatform.sap.com/integration.html
 * Pre-packaged integration content and APIs on SAP API Business Hub - https://api.sap.com/
+
+### Community
+* SAP Cloud Platform Integration Community - https://www.sap.com/community/topics/cloud-integration.html
+* Developer’s Corner - https://blogs.sap.com/2017/07/17/introduction-to-developers-corner/
+Want to know about the latest and greatest product updates and features enhancements of SAP Cloud Platform Integration? Then, the developer’s corner is your one stop shop!
 
 ### eLearning
 * SAP Cloud Platform Youtube academy - https://www.youtube.com/playlist?list=PLkzo92owKnVwUoypV34RbxBZihYqi6eE3
 * Simplify Integration with SAP Cloud Platform Integration Suite - https://open.sap.com/courses/cp9/resume 
-* Integration – The Key to the Intelligent Enterprise (SAP internal) - https://open.sap.com/courses/int1i/resume
+* Integration – The Key to the Intelligent Enterprise - https://open.sap.com/courses/int1/resume
 
